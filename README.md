@@ -93,3 +93,13 @@ Here are the results of some operations (each step is done after the previous on
   l_a 1 2 3 5 6 8
 
   l_b
+  
+  
+#__USAGE
+
+-> Go to the repo with terminal
+
+-> make
+
+-> ./pushswap 5 3 9 4 1 5 3 5 7 (put your numbers !)
+
