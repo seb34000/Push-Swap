@@ -1,0 +1,12 @@
+
+.DS_Store
+cachegrind.out.37695
+*.pl
+test
+test2000
+test5
+test50
+test500
+test5000
+test50000
+test_no_fast
