@@ -95,7 +95,7 @@ Here are the results of some operations (each step is done after the previous on
   l_b
   
   
-#__USAGE
+#__USAGE__
 
 -> Go to the repo with terminal
 
